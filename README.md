@@ -114,3 +114,7 @@ explains how to retrieve a list of desired capabilities for browsers.
 ----
 
 For more information on Karma see the [homepage](http://karma-runner.github.io).
+
+### Code Sample
+
+Check out code sample [here](https://github.com/nidhimj22/karma-browserstack-example).
